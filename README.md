@@ -1,7 +1,4 @@
 # Pixel-Art
-Here are some key sections you should include in your README file for GitHub:
-
-### **README Structure:**
 
 #### **1. Project Title & Description**
 - **Project Name:** Pixel Art Creator  
@@ -22,7 +19,7 @@ git clone https://github.com/your-username/pixel-art-creator.git
 cd pixel-art-creator
 open index.html
 ```
-Or simply open the `index.html` file in a browser.
+Or open the `index.html` file in a browser.
 
 #### **5. Technologies Used**
 - HTML5
